@@ -1,3 +1,5 @@
+<a href="https://www.youtube.com/SupraOfc"><img align="center" src="https://raw.githubusercontent.com/Suprafc/Supraofc/main/imagem/supraofc.jpeg"/></a>
+
 ## Oiii eu sou o Newton, criador de conteúdo de programação e tecnologia!
 
 <div align="center">
