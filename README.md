@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/SupraOfc"><img align="center" src="https://raw.githubusercontent.com/Suprafc/Supraofc/main/imagem/supraoficial.jpeg"/></a>
+<a href="https://www.youtube.com/SupraOfc"><img align="center" src="https://github.com/Supraofc/Supraofc/blob/d80ba7a1aae72608663081029326d59a44d9e0cf/supraoficial.jpg"/></a>
 
 ## Oiii eu sou o Newton, criador de conteúdo de programação e tecnologia!
 
